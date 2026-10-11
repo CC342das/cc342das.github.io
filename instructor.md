@@ -1,11 +1,11 @@
 # Course Instructor
 
-- Name: To be confirmed
-- Designation: To be confirmed
-- Department: To be confirmed
-- University: University of Management and Technology
+- Name: Dr. Salman Masih 
+- Designation: Assistant Professor
+- Department: Department of Computer Science
+- University: University of Management and Technology, Sialkot Campus, Pakistan 
 - Email: To be confirmed
-- Office location: To be confirmed
+- Office location: 3rd Floor, KUST. 
 
 ## Office Hours
 
