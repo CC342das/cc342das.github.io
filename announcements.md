@@ -14,6 +14,6 @@ Welcome to Design and Analysis of Algorithms. Slides, detailed notes, and other 
 
 📚 Please review the lecture slides, notes, and examples.
 
-📅 **Date:** To be announced.
+📅 **Date:** Section B: 15 October 2026. Section A: 20 October 2026. 
 
 **⚡ Come prepared!**
