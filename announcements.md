@@ -6,7 +6,7 @@ Welcome to Design and Analysis of Algorithms. Slides, detailed notes, and other 
 ---
 
 ## Course Updates
-## 🚨 IMPORTANT: QUIZ 1 ANNOUNCEMENT 🚨
+## 🚨 IMPORTANT: QUIZ 1 ANNOUNCEMENT 14 OCT 2026 🚨
 
 **Quiz 1 — Week 1 Lectures**
 
