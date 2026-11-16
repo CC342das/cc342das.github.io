@@ -10,7 +10,7 @@ Welcome to Design and Analysis of Algorithms. I will post slides, detailed notes
 
 ### Quiz 3 — Week 3 Lectures
 
-📢 Quiz 3 will cover both Week 3lectures, including all topics discussed in class.
+📢 Quiz 3 will cover both Week 3 lectures, including all topics discussed in class.
 
 📚 Please review the lecture slides, notes, and examples.
 
