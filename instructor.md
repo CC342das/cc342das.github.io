@@ -4,12 +4,12 @@
 - Designation: Assistant Professor
 - Department: Department of Computer Science
 - University: University of Management and Technology, Sialkot Campus, Pakistan 
-- Email: To be confirmed
-- Office location: 3rd Floor, KUST. 
+- Email: salman dot masih at skt dot umt dot edu dot pk
+- Office location: 2nd Floor, KUST 
 
 ## Office Hours
 
-To be confirmed. Please check back for the instructor's consultation schedule.
+<iframe src="https://calendar.google.com/calendar/embed?src=salmanpopa%40gmail.com&ctz=Asia%2FKarachi" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Contact Guidance
 
