@@ -9,9 +9,12 @@
 
 ### Office Hours
 
+<div>
 <iframe src="https://calendar.google.com/calendar/embed?src=salmanpopa%40gmail.com&ctz=Asia%2FKarachi" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ### Contact Guidance
 
 
 Use your university email when contacting the instructor. Include **CC342** in your email subject line.
+<iframe src="https://calendar.google.com/calendar/embed?src=salmanpopa%40gmail.com&ctz=Asia%2FKarachi" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
