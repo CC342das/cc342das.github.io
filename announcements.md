@@ -6,16 +6,15 @@ Welcome to Design and Analysis of Algorithms. I will post slides, detailed notes
 ---
 
 ## Course Updates
-## 🚨 IMPORTANT: QUIZ 2 ANNOUNCEMENT — 28 OCT 2026 🚨
+## 🚨 IMPORTANT: QUIZ 2 ANNOUNCEMENT — 18 and 19 November 2026 🚨
 
-### Quiz 2 — Week 2 Lectures
+### Quiz 3 — Week 3 Lectures
 
-📢 Quiz 2 will cover both lectures from Week 2, including all topics discussed in class.
+📢 Quiz 3 will cover both Week 3lectures, including all topics discussed in class.
 
 📚 Please review the lecture slides, notes, and examples.
 
 ### 📅 Quiz Schedule
-- Section B: 29 October 2026
-- Section A: 3 November 2026
-
+-Section A = 18th Nov, 2026 
+-Section B = 19th Nov, 2026. 
 ### ⚡ Come Prepared!
